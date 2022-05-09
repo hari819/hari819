@@ -1,6 +1,6 @@
 ### 
-Hola 👋 , I am Hari , with more than 15 years of experience in IT industry as a committed, highly motivated and adaptable professional,
-currently working in Devops primarily on Kubernetes, Docker ,Apache Kafka , EFK/ELK stack and Cloud Technologies from last 3 years,    
+Hola 👋 , I am Hari , with 15+ years of experience in IT industry as a committed, highly motivated and adaptable professional,
+currently working on Devops technologies primarily on Kubernetes, Docker , Apache Kafka , EFK/ELK stack and Cloud Technologies from last 3+ years,    
 backed by 12+ years of Strong full-stack Java/J2EE development experience.
 
 **full-stack java development , docker , kubernetes ,Apache kafka , EFK, ELK , microservices , aws , azure**
