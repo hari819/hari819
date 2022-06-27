@@ -3,6 +3,6 @@ Hola 👋 , I am Hari , with 17 years of experience in IT industry, currently wo
 
 **full-stack java development , docker , kubernetes ,Apache kafka , EFK/ELK , Microservices , AWS , Azure**
 
-🔭 I’m currently working on Kubernetes , docker , Kafka , EFK, Azure and AWS Cloud
+🔭 Kubernetes , docker , Kafka , EFK, Azure and AWS Cloud
 
 ![](https://komarev.com/ghpvc/?username=hari819&color=blueviolet)
