@@ -1,8 +1,8 @@
 ### 
 
 
-**full-stack java , microservices , docker , kubernetes ,Apache kafka , EFK/ELK , Microservices , AWS , Azure**
+**Full-stack Java , Microservices , Docker , Kubernetes ,Apache kafka , EFK , AWS , Azure**
 
-🔭 Kubernetes , docker , Kafka , python ,Go-lang ,EFK, Azure and AWS Cloud
+🔭 **Kubernetes , docker , Kafka , python ,Go-lang ,EFK, Azure and AWS Cloud**
 
 
