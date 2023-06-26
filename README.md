@@ -5,6 +5,5 @@
 
 🔭 **Kubernetes , docker , Kafka , python ,Go-lang ,EFK, Azure and AWS Cloud**
 
-**Self Learner**
 
 
