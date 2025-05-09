@@ -15,4 +15,4 @@
   -   Cloud Platforms: AWS , Azure, EKS, AKS, VNET, VPC , Kinesis, EventHub , Azure DNS, AWS IAM , Azure AD, Azurefile, AWS EFS
   -   Security: HashiCorp Vault , Mutual TLS, OAUTH  ,OpenID Connect , TLS Security , OpenSSL ,PrismaCloud Scanner , Trivy Scanner ,LetsEncrypt ,Cert-manager 
   -   API Management and Identity: WSO2 Identity Server , Azure AD (Active Directory) , Azure API Management 
-  -   Other Devops Tools: External-dns, Nginx Ingress-controller , Helm ,Tomee server , Azure KeyVault, Prometheus , Reloader
+  -   Other Devops Tools: External-dns, Nginx Ingress-controller , Helm ,Tomee server , Azure KeyVault, Reloader
