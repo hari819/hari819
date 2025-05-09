@@ -1,7 +1,7 @@
 ### 
 
 
-### SRE | DevOps Architect – Automating reliability,  Crafting secure, observable, and self-healing infrastructure.
+### SRE | DevOps Architect – Automating reliability,  Crafting secure, Observable, and Self-healing Infrastructure.
 
 
 ## Skills
