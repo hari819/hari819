@@ -1,9 +1,16 @@
 ### 
 
 
-### Driven by a passion for Cloud-Native technologies, automation, and building scalable, resilient systems.
-
-**Full-stack Java , Microservices , Docker , Kubernetes ,Apache kafka , Opensearch/ElasticSearch , Strimzi Kafka Operator, Ansible, Terraform , EFK ,Prometheus , Grafana , CICD Jenkins, Gitlab, AWS , Azure , EKS , AKS , Hashicorp Vault , WSO2 Identity Server, Apache Pulsar ,mutual TLS , OAUTH , OpenIDConnect ,Nginx Ingress controller, PrismaCloud Scanner , Trivy Scanner , Openssl , TLS Security , LetsEncrypt , Cert-manager , Azure AD , Azure API Management, Azure Virtual Network (VNet) & Private Link , Azure Key Vault , AWS IAM & Secrets Manager , Amazon VPC & Transit Gateway , External-dns , Azure DNS  **
+### SRE | DevOps Architect – Automating reliability,  Crafting secure, observable, and self-healing infrastructure.
 
 
-
+## Skills
+  -   Programming Language: Full-stack Java ,Spring Framework , Spring boot,  Microservices, Golang,  Python 
+  -   Search and Analytics: OpenSearch/ElasticSearch ,EFK (Elasticsearch, Fluentd, Fluent-bit, Kibana) 
+  -   IAC and Configuration Management: Terraform , Ansible 
+  -   Monitoring and Logging: Prometheus , Grafana  , exporters
+  -   CI/CD: Jenkins , Gitlab 
+  -   Cloud Platforms: AWS , Azure, EKS, AKS, VNET, VPC , Kinesis, EventHub 
+  -   Security: HashiCorp Vault , Mutual TLS, OAUTH  ,OpenID Connect , TLS Security , OpenSSL ,PrismaCloud Scanner , Trivy Scanner ,LetsEncrypt ,Cert-manager 
+  -   API Management and Identity: WSO2 Identity Server , Azure AD (Active Directory) , Azure API Management 
+  -   Other Devops Tools: External-dns, Ingress-controller , Helm ,Tomee server , Azure KeyVault, Prometheus , Reloader
