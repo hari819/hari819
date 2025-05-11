@@ -6,7 +6,7 @@
 
 ## Skills
   -   Programming Language: Full-stack Java ,Spring Framework , Spring boot,  Microservices, Golang,  Python
-  -   Containerization and Orchestration: Docker , Kubernetes , Rancher RKE2
+  -   Containerization and Orchestration: Docker , Kubernetes , Rancher RKE2 , AKS, EKS
   -   Search and Analytics: OpenSearch/ElasticSearch ,EFK (Elasticsearch, Fluentd, Fluent-bit, Kibana)
   -   Messaging and Data Streaming: Apache Kafka , Apache Pulsar, Strimzi Kafka Operator, Confluent Kafka Operator , IBM MQ 
   -   IAC and Configuration Management: Terraform , Ansible 
