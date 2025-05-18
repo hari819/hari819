@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hari | Senior DevOps/Cloud Architect ☁️
+# 👋 Hi, I'm Hari | Senior DevOps/Cloud Engineer ☁️
 
-🚀 **Full-Stack Java | Cloud-Native Architect | Microservices | Docker & Kubernetes |  Security-First Automation | Golang | Python**  
+🚀 **Full-Stack Java | Cloud-Native  | Microservices | Docker & Kubernetes |  Security-First Automation | Golang | Python**  
 
 ---
 
