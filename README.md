@@ -27,7 +27,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari819&layout=compact&theme=dark&hide_border=true)
 
----
-
-### 💬 **Fun Fact**
-> *"I once automated my entire home with Terraform and Kubernetes. Yes, even the coffee machine."* ☕
