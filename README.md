@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hari | Senior DevOps/SRE/Cloud Engineer ☁️
+# 👋 Hi, I'm Hari | Senior DevOps / SRE / Cloud Engineer ☁️
 
 🚀 **Full-Stack Java | Cloud-Native  | Microservices | Docker & Kubernetes | AWS-Azure | Python**  
 
