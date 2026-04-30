@@ -11,7 +11,7 @@
   -   Messaging and Data Streaming: Apache Kafka , Apache Pulsar, Strimzi Kafka Operator, Confluent Kafka Operator , IBM MQ 
   -   IAC and Configuration Management: Terraform , Ansible 
   -   Monitoring and Logging: Prometheus , Grafana  , Prometheus Exporters like, MQ exporter,Postgres exporter, Kafka exporter ,JMX Exporter
-  -   CI/CD: Jenkins , Gitlab
+  -   CI/CD: Jenkins , Gitlab , Github Actions
   -   Programming Language: Full-stack Java ,Spring Framework , Spring boot,  Microservices, Python 
   -   Cloud Platforms: AWS , Azure, EKS, AKS, VNET, VPC , Kinesis, EventHub , Azure DNS, AWS IAM , Azure AD, Azurefile, AWS EFS
   -   Security: HashiCorp Vault , Mutual TLS, OAUTH  ,OpenID Connect , TLS Security , OpenSSL ,PrismaCloud Scanner , Trivy Scanner ,LetsEncrypt ,Cert-manager 
