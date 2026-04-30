@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hari | Cloud Devops Consultant ☁️
 
-🚀 **Full-Stack Java | Cloud-Native  | Microservices | Docker & Kubernetes | AWS-Azure | Python**  
+🚀 **Full-Stack Java | Cloud-Native  | Microservices | Docker & Kubernetes | AWS-Azure | | Kafka on K8S | Opensearch | Python**  
 
 ---
 
