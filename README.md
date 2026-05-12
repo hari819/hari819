@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hari |  DevOps | SRE | Cloud Platform Engineering | Kubernetes | AWS | Azure  ☁️
+# DevOps | SRE | Cloud Platform Engineering | Kubernetes | AWS | Azure  ☁️
 
 🚀 **Full-Stack Java | Cloud-Native  | Python |  Microservices | Docker & Kubernetes | AWS-Azure | Kafka on K8S | Opensearch **  
 
