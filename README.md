@@ -21,10 +21,3 @@
 
 
 ---
-
-
-### 📈 **GitHub Stats**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari819&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari819&layout=compact&theme=dark&hide_border=true)
-
